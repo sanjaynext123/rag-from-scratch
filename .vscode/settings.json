@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "redshift-oregon.nextinsurance.io",
+            "port": 5439,
+            "driver": "Redshift Driver (Dedicated ver)",
+            "name": "NEXT Redshift Prod",
+            "database": "prod",
+            "username": "sanjay",
+            "password": "Shzvy)d?uF6H"
+        }
+    ]
+}
